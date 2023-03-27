@@ -6,10 +6,10 @@ The website has 3 pages
 
 1. Homepage - Displays all recent and popular movies with a few options to play around with.
 2. Movie Page - Displays details of a specific(selected by the user) movie with a button to play the trailer of the movie there itself.
-3. My List Page - User can add movies to their favourite list. Those movies will be displayed here.
+3. My Favorite Page - User can add movies to their favourite list. Those movies will be displayed here.
 
 
-Check out here - https://anmolp15.github.io/IMDbClone.github.io/
+Check out here - https://ritik1903.github.io/IMDB-clone/
 
 
 ## API Reference
